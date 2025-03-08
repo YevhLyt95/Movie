@@ -1,3 +1,3 @@
-function MovieCard(){
-    
+function MovieCard({movie}){
+
 }
